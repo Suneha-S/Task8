@@ -14,5 +14,5 @@ Key Insights
 - Sales Trends showed consistent spikes during the Q4 months, indicating strong end-of-year demand.
 
 Tools Used
-- Tableau Public/Desktop
-- Sample Superstore Dataset (or your own dataset)
+- Tableau 
+- Sample Superstore Dataset
